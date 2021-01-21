@@ -1,0 +1,15 @@
+p {
+	color: red;
+	background: yellow;
+	font-size: large;
+	text-align: right;
+	border: 3px solid green;
+/* This is how you make yourself notes in a CSS document*/
+}
+h1 {
+	color: green;
+	text-shadow: 2px 2px blue;
+	text-align: center;
+	font-family: Cursive;
+	font-size: 65px;
+}
